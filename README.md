@@ -1,42 +1,44 @@
-# 👋 Hi there, I'm Muhammad Rafa Enrico  
+<h1>Muhammad Rafa Enrico</h1>
 
-> 🚀 A passionate tech student exploring AI, Embedded Systems, and Web Development — turning ideas into code and creativity into impact.
+<p>Computer Engineering student at Politeknik Negeri Semarang, building at the intersection of embedded systems, machine learning, and the web.</p>
 
----
+<p>
+  <a href="https://linkedin.com/in/rafa-enrico"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/rafa.enrico"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-### 🧩 About Me
-- 💻 D4 Computer Engineering Student at Politeknik Negeri Semarang  
-- 🧠 Currently learning **AI**, **IoT**, and **Fullstack Development**  
-- 🧪 Building real-world prototypes with **ESP32**, **Node.js**, and **Python**  
-- 🎯 My mission: bridge hardware and intelligence through clean, functional code.
+## About
 
----
+I'm a D4 Computer Engineering Technology student at Politeknik Negeri Semarang. Most of my work sits between hardware and software: building ESP32-based prototypes, connecting them to web interfaces, and applying machine learning to real-world data.
 
-### ⚡ Tech Stack
-**Languages:**  
-`C / C++` `Python` `JavaScript` `Node.js` `PHP`
+**Focus areas**
 
-**Frameworks & Tools:**  
-`Express.js` `MongoDB` `Arduino` `TensorFlow` `OpenCV` `VS Code`
+- **Embedded & IoT** — ESP32, Arduino, PLC programming (OpenPLC)
+- **Machine Learning & Data** — Python, TensorFlow, OpenCV, data mining
+- **Web Development** — Node.js, Express, MongoDB, PHP
 
----
+**Recent work**
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rafa-enrico)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://instagram.com/rafa.enrico)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/muhammadrafaenrico)
+- Robot arm and conveyor prototype controlled through an ESP32 web interface, with ladder logic in OpenPLC
+- Sentiment analysis of YouTube comments on AI and the future of work, written up as a research paper
 
----
+## Tech Stack
 
-### 📈 GitHub Stats
-![Rafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaEnricoo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaEnricoo&layout=compact&theme=radical)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,nodejs,php,express,mongodb&theme=dark" alt="Languages and frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=arduino,tensorflow,opencv,linux,git,vscode&theme=dark" alt="Tools" />
+</p>
 
----
+## GitHub Activity
 
-### 🧠 Fun Zone
-```text
-Studying     ███████████░░░░░░░░░ 60%  
-Coding       ████████████████░░░░ 80%  
-Sleeping     ██████░░░░░░░░░░░░░░ 30%  
-Thinking     ████████████████████ 100%
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RafaEnricoo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" />
+    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RafaEnricoo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaEnricoo&layout=compact&hide_border=true&langs_count=6&theme=github_dark" />
+    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaEnricoo&layout=compact&hide_border=true&langs_count=6" />
+  </picture>
+</p>
